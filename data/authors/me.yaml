@@ -1,0 +1,163 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Deebhan Sivakumar
+  given: Deebhan
+  family: Sivakumar
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+status:
+  icon: "🎓"
+role: B.Tech IT Student | Full Stack & AI/ML Developer
+bio: |
+   Hi! I'm an Information Technology student with a strong interest in Software Development, Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building practical solutions, exploring new technologies, and continuously improving my technical skills.
+
+   I've gained hands-on experience with Python, Java, React.js, Node.js, MongoDB, HTML, CSS, JavaScript, and SQL through academic projects and practical learning. I enjoy solving problems, collaborating with others, and taking on new challenges that help me grow.
+
+   I'm always open to learning, connecting with like-minded professionals, and exploring opportunities where I can contribute and continue developing my skills. Outside of tech, I enjoy playing cricket and listening to music.
+
+links:
+  - icon: at-symbol
+    url: mailto:deebhan37@gmail.com
+    label: E-mail Me
+  - icon: hero/phone
+    url: tel:+917397582846
+    label: Call Me
+  - icon: hero/globe-alt
+    url: https://deebhan-portfolio-github-io-ut7q.vercel.app
+    label: Portfolio
+  - icon: brands/github
+    url: https://github.com/DEEBHANSIVAKUMAR
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/deebhan-sivakumar/
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Full-Stack Development (MERN)
+
+education:
+  - degree: B.Tech in Information Technology
+    institution: M.A.M College of Engineering and Technology, Tiruchirappalli
+    start: 2023-06-01
+    end: present
+    summary: |
+      CGPA: 8.12/10 (in progress). Focused on full-stack web development, machine learning, and applied AI through coursework and hands-on projects.
+    button:
+      text: Download Resume
+      url: /uploads/resume.pdf
+      icon: hero/arrow-down-tray
+  - degree: 12th Grade — Computer Science
+    institution: S.B.V Matriculation & Higher Secondary School, Thuraiyur
+    start: 2022-06-01
+    end: 2023-05-31
+    summary: |
+      Computer Science stream. Scored 72.5%.
+
+experience:
+  - role: Full Stack Development Intern
+    org: Movi Cloud Pvt Ltd
+    start: 2026-06-01
+    end: 2026-09-30
+    summary: |
+      Developed and maintained web applications using React.js, Node.js, and MongoDB. Collaborated with cross-functional teams to implement new features and optimize performance.
+    button:
+      text: View Portfolio
+      url: https://deebhan-portfolio-github-io-ut7q.vercel.app
+      icon: hero/globe-alt
+  - role: AI & Machine Learning Intern
+    org: DVein Innovations Pvt. Ltd.
+    start: 2026-06-01
+    end: 2026-07-31
+    summary: |
+      Completed an Artificial Intelligence & Machine Learning internship, gaining hands-on experience in AI and ML project development.
+  - role: Mobile App Development Intern
+    org: Tamizhan Skills (RISE Internship Program)
+    start: 2026-01-01
+    end: 2026-02-28
+    summary: |
+      Contributed to the development of mobile applications using Android Studio as part of a one-month Android development internship. Assisted in debugging and testing to ensure high-quality user experiences.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: JavaScript
+        level: 4
+      - label: Java
+        level: 3
+      - label: HTML & CSS
+        level: 4
+      - label: C
+        level: 3
+  - name: Tools & Frameworks
+    items:
+      - label: React.js
+        level: 4
+      - label: Node.js
+        level: 4
+      - label: Express.js
+        level: 4
+      - label: Django
+        level: 3
+      - label: Git & GitHub
+        level: 4
+  - name: Databases
+    items:
+      - label: MongoDB
+        level: 4
+      - label: MySQL
+        level: 3
+  - name: Machine Learning & AI
+    items:
+      - label: Machine Learning
+        level: 4
+      - label: Computer Vision
+        level: 3
+  - name: Soft Skills
+    items:
+      - label: Team Collaboration
+        level: 5
+      - label: Communication
+        level: 4
+      - label: Problem-Solving
+        level: 5
+      - label: Leadership
+        level: 4
+
+awards:
+  - title: 1st Place — Project Expo
+    awarder: M.A.M College of Engineering and Technology, Trichy
+    date: "2026-04-01"
+    summary: Secured first place for presenting an innovative project at the college project expo.
+    icon: hero/trophy
+  - title: 3rd Place — Coding Competition
+    awarder: M.A.M College of Engineering and Technology, Trichy
+    date: "2026-01-01"
+    summary: Placed third in a college-level coding competition.
+    icon: hero/trophy
+  - title: Student Leader
+    awarder: PALS
+    date: "2025-12-01"
+    summary: Recognized for leadership and initiative as a student leader.
+    icon: hero/trophy
+  - title: 1st Place — Technical Quiz Competition
+    awarder: Kings College of Engineering and Technology, Puthukkottai
+    date: "2025-11-01"
+    summary: Won first place in an inter-college technical quiz competition.
+    icon: hero/trophy
+  - title: MongoDB Certificate
+    awarder: MongoDB Basics for Students
+    date: "2025-09-01"
+    summary: Completed the MongoDB Basics for Students course, covering NoSQL databases and CRUD operations.
+    icon: hero/academic-cap
+  - title: Python Certificate
+    awarder: UniAthena, in partnership with Cambridge International Qualifications
+    date: "2025-03-01"
+    summary: Completed the Basics of Python course, building a strong foundation in Python programming.
+    icon: hero/academic-cap
