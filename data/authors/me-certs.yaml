@@ -1,0 +1,84 @@
+schema: hugoblox/author/v1
+slug: me-certs
+name:
+  display: Deebhan Sivakumar
+role: Certificates
+awards:
+  - title: Amazon Elastic Container Service (AWS ECS)
+    awarder: KodeKloud
+    date: '2026-08-18'
+    summary: 'Deploying and managing containerized applications on AWS using ECS.'
+    certificate_url: uploads/certificates/aws-ecs-kodekloud.pdf
+    icon: hero/academic-cap
+  - title: Introduction to Generative AI Studio
+    awarder: Simplilearn
+    date: '2026-08-18'
+    summary: 'Building and prototyping generative AI models with Google Cloud Generative AI Studio.'
+    certificate_url: uploads/certificates/generative-ai-studio-simplilearn.pdf
+    icon: hero/academic-cap
+  - title: Artificial Intelligence and Machine Learning
+    awarder: Learning to Earning
+    date: '2026-08-16'
+    summary: 'Foundations of artificial intelligence and machine learning concepts.'
+    certificate_url: uploads/certificates/ai-machine-learning-learning-to-earning.pdf
+    icon: hero/academic-cap
+  - title: Crash Course - MCP For Beginners
+    awarder: KodeKloud
+    date: '2026-08-16'
+    summary: 'Getting started with the Model Context Protocol (MCP) for building AI integrations.'
+    certificate_url: uploads/certificates/mcp-for-beginners-kodekloud.pdf
+    icon: hero/academic-cap
+  - title: Innovating with Google Cloud AI
+    awarder: Simplilearn
+    date: '2026-08-14'
+    summary: 'Leveraging Google Cloud AI services to build intelligent applications.'
+    certificate_url: uploads/certificates/innovating-google-cloud-ai-simplilearn.pdf
+    icon: hero/academic-cap
+  - title: AI Fundamentals - Foundations for Understanding AI
+    awarder: IBM SkillsBuild
+    date: '2026-08-11'
+    summary: 'Core concepts of artificial intelligence and its real-world applications.'
+    certificate_url: uploads/certificates/ai-fundamentals-ibm-skillsbuild.jpg
+    icon: hero/academic-cap
+  - title: Machine Learning Using Python
+    awarder: Simplilearn
+    date: '2026-07-29'
+    summary: 'Machine learning workflows and algorithms implemented in Python.'
+    certificate_url: uploads/certificates/machine-learning-python-simplilearn.pdf
+    icon: hero/academic-cap
+  - title: Introduction to MERN Stack
+    awarder: Simplilearn
+    date: '2026-07-28'
+    summary: 'Full-stack web development with MongoDB, Express, React, and Node.js.'
+    certificate_url: uploads/certificates/mern-stack-simplilearn.pdf
+    icon: hero/academic-cap
+  - title: Machine Learning Onramp
+    awarder: MathWorks
+    date: '2026-07-18'
+    summary: 'Hands-on introduction to machine learning with MATLAB.'
+    certificate_url: uploads/certificates/machine-learning-onramp-mathworks.pdf
+    icon: hero/academic-cap
+  - title: Basics of Python
+    awarder: UniAthena - Cambridge International Qualifications (UK)
+    date: '2026-05-13'
+    summary: 'Python programming fundamentals, delivered by UniAthena in partnership with CIQ, UK.'
+    certificate_url: uploads/certificates/basics-of-python-uniathena.pdf
+    icon: hero/academic-cap
+  - title: MongoDB Basics for Students
+    awarder: MongoDB
+    date: '2025-04-08'
+    summary: 'Fundamentals of MongoDB documents, collections, and queries.'
+    certificate_url: uploads/certificates/mongodb-basics-students.jpg
+    icon: hero/academic-cap
+  - title: Front End Development - CSS
+    awarder: Great Learning Academy
+    date: '2023-10-01'
+    summary: 'Styling and layout of modern websites using CSS.'
+    certificate_url: uploads/certificates/frontend-css-great-learning.pdf
+    icon: hero/academic-cap
+  - title: Front End Development - HTML
+    awarder: Great Learning Academy
+    date: '2023-10-01'
+    summary: 'Structure and semantics of web pages using HTML.'
+    certificate_url: uploads/certificates/frontend-html-great-learning.pdf
+    icon: hero/academic-cap
